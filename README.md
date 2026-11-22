@@ -32,7 +32,7 @@ Simulated with Icarus Verilog on EDA Playground.
 
 ### Simulation result
 
-![Console output](console_pass (2).png)
+![Console output](console_pass_2.png)
 
 ### Write and read-back
 
